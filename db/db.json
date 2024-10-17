@@ -1,0 +1,36 @@
+{
+  "politicas": {
+    "politicas_de_aluguel": {
+      "titulo": "Política de Aluguel",
+      "textos_politicas": [
+        "Período de Locação: Os equipamentos podem ser alugados por períodos flexíveis, de acordo com a necessidade do cliente. Os prazos disponíveis incluem diárias, semanais, mensais e anuais, com possibilidade de renovação automática mediante solicitação.",
+        "Forma de Pagamento: Aceitamos cartões de crédito, débito e boletos bancários. O pagamento é realizado de forma antecipada para todo o período de locação, sendo possível parcelar contratos de longo prazo.",
+        "Renovação e Cancelamento: A renovação pode ser feita automaticamente ou manualmente, e o cancelamento deve ser solicitado com, no mínimo, 5 dias úteis de antecedência. Caso contrário, haverá cobrança proporcional ao uso."
+      ]
+    },
+    "politicas_de_manutencao": {
+      "titulo": "Política de Uso e Manutenção",
+      "textos_politicas": [
+        "Responsabilidade do Usuário: O cliente é responsável por utilizar o equipamento conforme as normas de uso. Qualquer dano causado por mau uso será de responsabilidade do locatário.",
+        "Manutenção e Suporte: Durante o período de locação, a PCFlex oferece suporte técnico gratuito e realiza manutenção preventiva e corretiva nos equipamentos. Problemas técnicos devem ser comunicados imediatamente para que possamos realizar a troca ou conserto em até 48 horas.",
+        "Atualização de Equipamentos: A PCFlex oferece a opção de troca periódica dos equipamentos para versões mais recentes, garantindo que os clientes sempre tenham acesso à tecnologia de ponta."
+      ]
+    },
+    "politicas_de_privacidade": {
+      "titulo": "Política de Privacidade",
+      "textos_politicas": [
+        "Proteção de Dados: Todos os dados coletados no site ou durante o processo de aluguel são tratados de forma confidencial e utilizados exclusivamente para fins relacionados à prestação dos nossos serviços.",
+        "Segurança: A PCFlex utiliza tecnologias avançadas de criptografia para proteger as informações pessoais dos clientes. Não compartilhamos dados com terceiros, exceto quando necessário para processar pagamentos ou conforme exigido por lei.",
+        " Direitos dos Usuários: Os clientes têm o direito de acessar, corrigir ou excluir suas informações pessoais a qualquer momento. Para isso, basta entrar em contato com nossa equipe de suporte."
+      ]
+    },
+    "politicas_de_devolucao": {
+      "titulo": "Política de Devolução",
+      "textos_politicas": [
+        "Condições de Devolução: Ao término do contrato, o equipamento deve ser devolvido em boas condições de uso, com todos os acessórios e embalagens originais. A não devolução de acessórios pode gerar custos adicionais.",
+        "Atraso na Devolução: Caso o equipamento não seja devolvido no prazo estabelecido, será cobrada uma multa proporcional ao período excedente.",
+        "Verificação e Avaliação: Após a devolução, os equipamentos passarão por uma inspeção técnica. Caso sejam encontrados danos causados por mau uso, o cliente será notificado e os custos de reparo serão cobrados. "
+      ]
+    }
+  }
+}
