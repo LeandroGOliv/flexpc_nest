@@ -10,7 +10,7 @@ import Footer from "./components/Footer.vue";
 
     <main>
       <RouterView />
-      <!-- DIMINUIR TODAS FONTS SEPA-->
+      <!-- DIMINUIR TODAS FONTS SEPA -->
     </main>
 
     <Footer />

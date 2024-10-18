@@ -5,6 +5,10 @@ npm install
 ```
 
 ```sh
+npm install json-server
+```
+
+```sh
 npm run dev
 ```
 
