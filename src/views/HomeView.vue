@@ -152,10 +152,10 @@ import LinkButton from "@/components/LinkButton.vue";
 }
 
 #tec {
-  background-image: url("/img/tecnico-pc-final.jpg");
+  background-image: url("src/assets/img/tecnico-pc-final.jpg");
 }
 #quebra {
-  background-image: url("/img/novo-pc-final.jpg");
+  background-image: url("src/assets/img/novo-pc-final.jpg");
 }
 
 #centro {
