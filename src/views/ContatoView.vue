@@ -25,7 +25,7 @@
 </template>
 
 <script setup>
-const wpp = "/img/wppteste.png";
+const wpp = "src/assets/img/wppteste.png";
 </script>
 
 <style scoped>

@@ -13,7 +13,7 @@
 
 <script setup>
 import { RouterLink, useRoute } from "vue-router";
-const logo = "/img/logo.png";
+const logo = "src/assets/img/logo.png";
 </script>
 
 <style scoped>
